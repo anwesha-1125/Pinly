@@ -29,6 +29,7 @@ Giphy API – GIF Search
 📂 Project Structure
 
 src/
+
 │── api/
 │── components/
 │── pages/
@@ -37,6 +38,7 @@ src/
 │   └── store.js
 │── App.jsx
 │── main.jsx
+
 
 
 ✨ Screens
